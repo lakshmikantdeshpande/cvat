@@ -74,6 +74,11 @@ available on ``<cvat_origin>/api/swagger`` (default: ``localhost:8080/api/swagge
 
 Code released under the [MIT License](https://opensource.org/licenses/MIT).
 
+## FAQ
+
+Please see [Frequently Asked Questions](FAQ.md) before create an issue or ask on the
+[Gitter chat](https://gitter.im/opencv-cvat).
+
 ## Questions
 
 CVAT usage related questions or unclear concepts can be posted in our
